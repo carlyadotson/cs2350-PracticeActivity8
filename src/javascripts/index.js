@@ -29,7 +29,7 @@ function selectMovie(m){
     `
 }
 
-function searchMoves(event){
+function searchMovies(event){
     if (event){
         event.preventDefault()
     }
